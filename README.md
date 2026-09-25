@@ -1,1 +1,1 @@
-"# mtcube - More Than Cube" 
+# mtcube - More Than Cube 
